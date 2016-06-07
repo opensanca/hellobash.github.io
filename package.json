@@ -1,0 +1,25 @@
+{
+  "name": "hellobash",
+  "version": "1.0.0",
+  "description": "Hello bash Opensanca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opensanca/hellobash.github.io.git"
+  },
+  "keywords": [
+    "bash",
+    "linux",
+    "comand",
+    "line"
+  ],
+  "author": "Bruno Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opensanca/hellobash.github.io/issues"
+  },
+  "homepage": "https://github.com/opensanca/hellobash.github.io#readme"
+}
